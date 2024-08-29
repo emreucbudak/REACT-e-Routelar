@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainnav {
+    width: 100vw;
+    height: 15vh;
+    background-color: blue;
+}
+.mainnav a {
+    color: white;
+    margin-left: 30vw;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: x-large;
+}
